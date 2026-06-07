@@ -2,10 +2,8 @@
 name = "band-agent-rs"
 version = "0.1.0"
 edition = "2021"
-description = "Autonomous instrument agent with spectral identity, conservation envelope, and t-minus timing"
+description = "Autonomous agent with spectral identity and conservation tracking for Self-Improving Band"
 license = "MIT"
 repository = "https://github.com/SuperInstance/band-agent-rs"
-keywords = ["music", "agent", "spectral", "conservation", "midi"]
+keywords = ["agent", "music", "spectral", "midi", "band"]
 categories = ["multimedia::audio", "simulation"]
-
-[dependencies]
